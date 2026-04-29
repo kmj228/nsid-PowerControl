@@ -4,9 +4,11 @@
 
 **WIZ550S2E 기반 전원 제어 장비 원격 관리 플랫폼**
 
-[![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/)
 [![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)]()
 [![HTTPS](https://img.shields.io/badge/HTTPS-FF6B35?style=flat-square&logo=letsencrypt&logoColor=white)]()
+[![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)]()
 
 </div>
 
